@@ -130,12 +130,6 @@
     graph: DisposalMachine
     node: mailing_unit
   - type: DisposalUnit
-    whitelist:
-      components:
-      - Item
-    blacklist:
-      components:
-      - EntityStorage
   - type: MailingUnit
   - type: DeviceNetwork
     deviceNetId: Wired
