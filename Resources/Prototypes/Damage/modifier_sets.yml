@@ -197,6 +197,15 @@
   id: Vox
   coefficients: # To be decided
     Poison: 1
+    
+- type: damageModifierSet # Goobstation - Tajaran
+  id: Tajaran
+  coefficients: # Literally the same as felinids, but heat and cold cuz fur
+    Blunt: 1.15
+    Slash: 1.15
+    Piercing: 1.15
+    Heat: 1.20
+    Cold: 0.80
 
 - type: damageModifierSet
   id: Zombie #Blunt resistant and immune to biological threats, but can be hacked apart and burned
