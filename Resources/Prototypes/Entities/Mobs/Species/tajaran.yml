@@ -100,19 +100,13 @@
   - type: Stamina
     critThreshold: 75 # Goobstation - Siouxcide, felinids take 3 disabler shots to down
   - type: TypingIndicator
-    proto: felinid
-  - type: PseudoItem
-    storedOffset: 0,17
-    shape:
-      - 0,0,1,4
-      - 0,2,3,4
-      - 4,0,5,4
+    proto: tajaran
   - type: Vocal
-    wilhelm: "/Audio/Nyanotrasen/Voice/Felinid/cat_wilhelm.ogg"
+    wilhelm: "/Audio/Voice/Tajaran/wilhelm_scream.ogg"
     sounds:
-      Male: MaleFelinid
-      Female: FemaleFelinid
-      Unsexed: MaleFelinid
+      Male: MaleTajaran
+      Female: FemaleTajaran
+      Unsexed: MaleTajaran
   - type: NoShoesSilentFootsteps
   - type: Tag
     tags:

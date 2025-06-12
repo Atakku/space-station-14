@@ -1,0 +1,41 @@
+# SPDX-FileCopyrightText: 2024 Aidenkrz <aiden@djkraz.com>
+# SPDX-FileCopyrightText: 2024 Piras314 <p1r4s@proton.me>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+- type: soundCollection
+  id: TajaranScreams
+  files:
+  #- /Audio/Voice/Tajaran/cat_scream1.ogg - Goobstation - Remove mute sound from Tajaran + harpy screams
+  - /Audio/Voice/Tajaran/cat_scream2.ogg
+  - /Audio/Voice/Tajaran/cat_scream3.ogg
+
+- type: soundCollection
+  id: TajaranHisses
+  files:
+  - /Audio/Voice/Tajaran/cat_hiss1.ogg
+  - /Audio/Voice/Tajaran/cat_hiss2.ogg
+
+- type: soundCollection
+  id: TajaranMeows
+  files:
+  - /Audio/Voice/Tajaran/cat_meow1.ogg
+  - /Audio/Voice/Tajaran/cat_meow2.ogg
+  - /Audio/Voice/Tajaran/cat_meow3.ogg
+
+- type: soundCollection
+  id: TajaranMews
+  files:
+  - /Audio/Voice/Tajaran/cat_mew1.ogg
+  - /Audio/Voice/Tajaran/cat_mew2.ogg
+
+- type: soundCollection
+  id: TajaranGrowls
+  files:
+  - /Audio/Voice/Tajaran/cat_growl1.ogg
+
+- type: soundCollection
+  id: TajaranPurrs
+  files:
+  - /Audio/Voice/Tajaran/cat_purr1.ogg

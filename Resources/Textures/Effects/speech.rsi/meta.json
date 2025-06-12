@@ -8,6 +8,23 @@
     },
     "states": [
         {
+            "name": "tajaran0",
+            "delays": [
+                [
+                    0.2,
+                    0.3,
+                    0.3,
+                    0.5
+                ]
+            ]
+        },
+        {
+            "name": "tajaran1"
+        },
+        {
+            "name": "tajaran2"
+        },
+        {
             "name": "alien0",
             "delays": [
                 [
