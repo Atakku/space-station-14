@@ -163,3 +163,9 @@ chat-speech-verb-wawa-1 = intones
 chat-speech-verb-wawa-2 = states
 chat-speech-verb-wawa-3 = declares
 chat-speech-verb-wawa-4 = ponders
+
+chat-speech-verb-name-tajaran = Felinid
+chat-speech-verb-tajaran-1 = mraows
+chat-speech-verb-tajaran-2 = mews
+chat-speech-verb-tajaran-3 = meows
+chat-speech-verb-tajaran-4 = purrs out
